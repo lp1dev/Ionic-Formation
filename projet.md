@@ -6,7 +6,7 @@ il est temps de passer à la pratique !
 Le projet que vous allez réaliser est une application de quizz, permettant aux utilisateurs de répondre à des question,
 chaque bonne réponse trouvée ajoutera 10 points à son score et chaque réponse fausse retirera 10 points à celui-ci.
 
-Une partie est composée de 10 questions, auxquelles il faut répondre le plus rapidement possible.
+Une partie est composée de 20 questions, auxquelles il faut répondre le plus rapidement possible.
 
 ## Communication avec des APIs
 
