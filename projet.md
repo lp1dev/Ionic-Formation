@@ -16,7 +16,7 @@ Le calcul des points se fera de la sorte en fonction du niveau de difficulté :
 
 **Medium** : 10 points par bonne réponse, -10 points par réponse fausse
 
-**Hard** : 15 points par bonne réponse, -15 points par réponse fausse
+**Hard** : 20 points par bonne réponse, -20 points par réponse fausse
 
 Il est tout à fait possible d'obtenir un score négatif en fin de partie.
 
