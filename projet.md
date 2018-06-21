@@ -27,7 +27,7 @@ Une partie est composée de 20 questions, auxquelles il faut répondre le plus r
 Les questions doivent être récupérées sur https://opentdb.com/api_config.php.
  
 À la fin de la partie, le score et le temps de la partie doivent pouvoir (soit automatiquement, soit au choix de l'utilisateur) être partagés sur le leaderboard global contenant l'ensemble des scores des joueurs identifiés par leur nickname et leur avatar **(l'URL d'une image)**.
-Ce leaderboard est accessible sur http://leaderboard.lp1.eu.
+Ce leaderboard est accessible sur https://leaderboard.lp1.eu.
 
 À chaque nom d'utilisateur devra de base être associé un avatar **différent**, vous pouvez utiliser http://avatars.adorable.io/ pour générer des URLs d'avatars.
 
