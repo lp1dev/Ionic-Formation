@@ -8,7 +8,7 @@ chaque bonne réponse trouvée ajoutera des points à son score et chaque répon
 
 Il doit être possible de sélectionner un niveau de difficulté :
 
-Easy, Medium ou Hard.
+**Easy, Medium ou Hard.**
 
 Le calcul des points se fera de la sorte en fonction du niveau de difficulté : 
 
