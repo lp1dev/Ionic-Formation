@@ -46,6 +46,8 @@ En premier lieu, la présence et la qualité de l'implémentation des fonctionna
 
 Il est **indispensable que chacun des rendus soit différent**, dans le cas où deux projets supposés être différents partageraient plus de 70% de leur code, le code mis en commun **ne sera pas compté dans la note finale**.
 
+*Dans le cas où certaines parties de votre code ne seraient pas absolument explicites, je vous recommande de le commenter.*
+
 ## Bonus Possibles
 
 En bonus, une fois que vous avez terminé l'ensemble des autres fonctionnalités vous pouvez ajouter : 
