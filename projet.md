@@ -48,6 +48,8 @@ Il est **indispensable que chacun des rendus soit différent**, dans le cas où 
 
 *Dans le cas où certaines parties de votre code ne seraient pas absolument explicites, je vous recommande de le commenter.*
 
+**Votre dossier node_modules ne doit PAS faire partie du dépot rendu !**
+
 ## Bonus Possibles
 
 En bonus, une fois que vous avez terminé l'ensemble des autres fonctionnalités vous pouvez ajouter : 
