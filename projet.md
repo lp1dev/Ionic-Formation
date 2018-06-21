@@ -3,8 +3,18 @@
 Maintenant que nous avons vue la théorie par rapport à l'utilisation du Framework Ionic,
 il est temps de passer à la pratique !
 
-Le projet que vous allez réaliser est une application de quizz, permettant aux utilisateurs de répondre à des question,
-chaque bonne réponse trouvée ajoutera 10 points à son score et chaque réponse fausse retirera 10 points à celui-ci.
+Le projet que vous allez réaliser est une application de quizz, permettant aux utilisateurs de répondre à des questions,
+chaque bonne réponse trouvée ajoutera des points à son score et chaque réponse fausse en retirera.
+
+Il doit être possible de sélectionner un niveau de difficulté :
+
+Easy, Medium ou Hard.
+
+Le calcul des points se fera de la sorte en fonction du niveau de difficulté : 
+
+**Easy** : 5 points par bonne réponse, -5 points par réponse fausse
+**Medium** : 10 points par bonne réponse, -10 points par réponse fausse
+**Hard** : 15 points par bonne réponse, -15 points par réponse fausse
 
 Il est tout à fait possible d'obtenir un score négatif en fin de partie.
 
@@ -54,7 +64,6 @@ Il est **indispensable que chacun des rendus soit différent**, dans le cas où 
 
 En bonus, une fois que vous avez terminé l'ensemble des autres fonctionnalités vous pouvez ajouter : 
 
-- Un choix du niveau de difficulté
 - Un choix du sujet du questionnaire
 - De la lecture en text-to-speech des questions.
 
