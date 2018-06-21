@@ -46,7 +46,11 @@ Il est **indispensable que chacun des rendus soit différent**, dans le cas où 
 
 ## Bonus Possibles
 
-En bonus, une fois que vous avez terminé l'ensemble des autres fonctionnalités vous pouvez ajouter de la lecture en text-to-speech des questions.
+En bonus, une fois que vous avez terminé l'ensemble des autres fonctionnalités vous pouvez ajouter : 
 
-Il est également possible de vous interfacer avec d'autres APIs si vous avez des idées de nouvelles fonctionnalités.
+- Un choix du niveau de difficulté
+- Un choix du sujet du questionnaire
+- De la lecture en text-to-speech des questions.
+
+Il est également possible de vous interfacer avec d'autres APIs si vous avez des idées de nouvelles fonctionnalités intéréssantes.
 
