@@ -46,6 +46,8 @@ Le type des questions selectionnées sera **ANY** (choix multiples + vrai/faux).
 Il doit également être possible de jouer en mode "hors-ligne" au jeu sur un nombre plus limité de questions.
 Le score et le temps, en fin de partie doivent être sauvegardé malgré l'abscence de connexion et envoyés à la reconnexion.
 
+Un affichage du leaderboard dans l'application est également nécessaire !
+
 ## Critères de notation
 
 En premier lieu, la présence et la qualité de l'implémentation des fonctionnalités sera prise en compte.
