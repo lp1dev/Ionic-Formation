@@ -34,11 +34,13 @@ Le score et le temps, en fin de partie doivent être sauvegardé malgré l'absce
 
 En premier lieu, la présence et la qualité de l'implémentation des fonctionnalités sera prise en compte.
 
-L'UI doit être simple à utiliser et cohérente visuellement, les différentes vues que vous réaliserez se doivent également d'être fonctionnelles quel que soit le type d'appareil et la taille d'écran utilisée.
+**L'UI doit être simple à utiliser** et **cohérente visuellement**, les différentes vues que vous réaliserez se doivent également d'être fonctionnelles quel que soit le type d'appareil et la taille d'écran utilisée.
 
-L'architecture des fichiers et du code de votre projet devra, même si elle ne doit pas coller parfaitement à un modèle architectural être claire et représenter les fonctionnalités et leurs relations au sein de votre projet.
+**L'architecture des fichiers et du code de** votre projet devra, même si elle ne doit pas coller parfaitement à un modèle architectural être **claire et représenter les fonctionnalités et leurs relations au sein de votre projet**.
 
-La présence de tests et leur pertinence seront également comptabilisés dans le barème.
+**La présence, couverture de tests et leur pertinence seront également comptabilisés dans le barème.**
+
+Il est **indispensable que chacun des rendus soit différent**, dans le cas où deux projets supposés être différents partageraient plus de 70% de leur code, le code mis en commun **ne sera pas compté dans la note finale**.
 
 ## Bonus Possibles
 
